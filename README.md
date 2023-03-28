@@ -2,6 +2,23 @@
 In this repository, I will provide the materials and my notes on how to write a research paper or essay.
 
 
+## Introduction: Introduce your work to readers!
+
+## Related Work:
+
+## Motivating Example:
+
+## Overview:
+If your work has several components, it is better to give an overview of them before going into details in this section. It is advised to use a figure to depict the components to give a big picture of your solution. This section represents a mind map for the reader before getting involved with details. There are some points that must be considered in writing this section:
+- try to define the terminology used later in the manuscript
+- add the assumptions about the work and conditions required
+- explain the standards and the realisitic reasons for using the assumptions
+- explain the solution in a chronological way
+
+
+## Detailed Approach:
+
+r
 # Writing an Essay
 Here are several guides on how to plan an essay and start writing it
 1. A short guide to essay planning and structure (University of Birmingham)
