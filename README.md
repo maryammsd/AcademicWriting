@@ -15,10 +15,18 @@ If your work has several components, it is better to give an overview of them be
 - explain the standards and the realisitic reasons for using the assumptions
 - explain the solution in a chronological way
 
-
 ## Detailed Approach:
+In this section, you should discuss the details of your approach in a way that the reader can reproduce your results. In order to do that, first explain why you use this solution, why the overall proposed key components fit together and then go into details. Do not explain the details without telling the reason behind you come up with them. 
 
-r
+A simple receipe for writing this section is:
++ start by explaing what this section is for 
++ tell the purpose 
++ how it fits with the overall aim
++ explain the details of your proposed solution
++ summarise what you alread discussed at the end
+
+In computer science, this section might include either of a theorem or an algorithm. [add more information on how to write these two]
+
 # Writing an Essay
 Here are several guides on how to plan an essay and start writing it
 1. A short guide to essay planning and structure (University of Birmingham)
