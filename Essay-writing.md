@@ -14,5 +14,5 @@ Here are several guides on how to plan an essay and start writing it
 - Say it -> body
 - Say what you have said -> conclusion
 
-## The first and last sentences should indicate the main point of the paragraph and the last one should specify a summary and transition to the next paragraph. 
+The first and last sentences should indicate the main point of the paragraph and the last one should specify a summary and transition to the next paragraph. 
 
